@@ -1,2 +1,2 @@
-# food ordering system in c
+# food ordering system in c++
 # miniproject
